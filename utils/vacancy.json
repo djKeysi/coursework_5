@@ -1,0 +1,3532 @@
+{
+  "items": [
+    {
+      "id": "82944267",
+      "premium": false,
+      "name": "Системный администратор, программист",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1238",
+        "name": "Междуреченск",
+        "url": "https://api.hh.ru/areas/1238"
+      },
+      "salary": {
+        "from": 25000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Междуреченск",
+        "street": "улица Чехова",
+        "building": "2",
+        "lat": 53.690142,
+        "lng": 88.07419,
+        "description": null,
+        "raw": "Междуреченск, улица Чехова, 2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "11610250"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-21T05:29:38+0300",
+      "created_at": "2023-07-21T05:29:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82944267",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82944267?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82944267",
+      "relations": [],
+      "employer": {
+        "id": "5195222",
+        "name": "ГКУ Центр занятости населения города Междуреченска",
+        "url": "https://api.hh.ru/employers/5195222",
+        "alternate_url": "https://hh.ru/employer/5195222",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5195222",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Наличие высшего или среднего специального образования по профилю.",
+        "responsibility": "Выполнение функций системного администратора информационной безопасности системы обработки персональных данных организации. Обеспечение бесперебойной эксплуатации технических средств. Администрирование и защита информации."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "113",
+          "name": "Системный администратор"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "84288192",
+      "premium": false,
+      "name": "Ведущий программист",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1238",
+        "name": "Междуреченск",
+        "url": "https://api.hh.ru/areas/1238"
+      },
+      "salary": {
+        "from": 110000,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-31T13:47:13+0300",
+      "created_at": "2023-07-31T13:47:13+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84288192",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/84288192?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/84288192",
+      "relations": [],
+      "employer": {
+        "id": "2688858",
+        "name": "НОВАЯ ГОРНАЯ УК",
+        "url": "https://api.hh.ru/employers/2688858",
+        "alternate_url": "https://hh.ru/employer/2688858",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/4261064.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/4261065.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/955134.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2688858",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование (информационные технологии). Опыт работы приветствуется. Будет плюсом наличие сертификатов по программным продуктам 1С:Предприятие Дополнительные требования: Умение...",
+        "responsibility": "Разработка новых решений в действующем ПО. Поддержка информационных систем компании на базе продуктов 1С (настройка и создание отчетов, создание..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "84247046",
+      "premium": false,
+      "name": "Специалист производственных систем \"Карьер\"/программист",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1238",
+        "name": "Междуреченск",
+        "url": "https://api.hh.ru/areas/1238"
+      },
+      "salary": {
+        "from": 75000,
+        "to": 78000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-31T07:09:08+0300",
+      "created_at": "2023-07-31T07:09:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84247046",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/84247046?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/84247046",
+      "relations": [],
+      "employer": {
+        "id": "2688858",
+        "name": "НОВАЯ ГОРНАЯ УК",
+        "url": "https://api.hh.ru/employers/2688858",
+        "alternate_url": "https://hh.ru/employer/2688858",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/4261064.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/4261065.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/955134.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2688858",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование, направление подготовки: Информационные технологии, программирование. От работы от 1 года. Знание: С#, Инка, python, sql, js.",
+        "responsibility": "Развитие и технологическое сопровождение информационных систем ЛИМС, ЕДАЦ, расчет материального баланса, советчик ОФ, планирование ОФ, ЖД логистика. Разработка алгоритмов работы..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "150",
+          "name": "Бизнес-аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "items": [
+        {
+          "id": "80626045",
+          "premium": false,
+          "name": "Front-end разработчик",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Тольятти",
+            "building": "27",
+            "lat": 53.759363,
+            "lng": 87.147767,
+            "description": null,
+            "raw": "Новокузнецк, улица Тольятти, 27",
+            "metro": null,
+            "metro_stations": [],
+            "id": "2537523"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-17T08:22:13+0300",
+          "created_at": "2023-07-17T08:22:13+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80626045",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/80626045?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/80626045",
+          "relations": [],
+          "employer": {
+            "id": "2049601",
+            "name": "Онли",
+            "url": "https://api.hh.ru/employers/2049601",
+            "alternate_url": "https://hh.ru/employer/2049601",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/635179.jpg",
+              "90": "https://hhcdn.ru/employer-logo/2981868.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/2981869.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2049601",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "умение верстать с нуля адаптивные интерфейсы с поддержкой современных браузеров. - уверенные знания HTML, CSS (SASS/SCSS). - опыт работы с фреймворками...",
+            "responsibility": "трезвая оценка объема и сроков работ, соблюдаемая в дальнейшем. Обязанности: Разработка клиентской части веб-проектов. Создание рабочих страниц по макетам..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "81022893",
+          "premium": false,
+          "name": "Начинающий Разработчик С#",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Свердлова",
+            "building": "22",
+            "lat": 53.762982,
+            "lng": 87.145808,
+            "description": null,
+            "raw": "Новокузнецк, улица Свердлова, 22",
+            "metro": null,
+            "metro_stations": [],
+            "id": "708573"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-03T08:46:17+0300",
+          "created_at": "2023-08-03T08:46:17+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81022893",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/81022893?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/81022893",
+          "relations": [],
+          "employer": {
+            "id": "829881",
+            "name": "Финансовые технологии",
+            "url": "https://api.hh.ru/employers/829881",
+            "alternate_url": "https://hh.ru/employer/829881",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829881",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Финансовые Технологии. ИТ-интегратор с обширным опытом внедрения систем управления для средних и крупных предприятий, холдинговых структур и государственных корпораций...",
+            "responsibility": "Разработчик С#. Финансовые Технологии - эксперт по созданию комплексных решений по управлению предприятием, бюджетированием, производством, техническим обслуживанием и ремонтом оборудования, электронным..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84878618",
+          "premium": false,
+          "name": "Программист ПЛК",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-10T10:57:14+0300",
+          "created_at": "2023-08-10T10:57:14+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84878618",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84878618?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84878618",
+          "relations": [],
+          "employer": {
+            "id": "5156406",
+            "name": "Трансмаш",
+            "url": "https://api.hh.ru/employers/5156406",
+            "alternate_url": "https://hh.ru/employer/5156406",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/809176.png",
+              "240": "https://hhcdn.ru/employer-logo/3677592.png",
+              "90": "https://hhcdn.ru/employer-logo/3677591.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5156406",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт программирование контроллеров на языках МЭК 61131-3. Опыт работы с частотниками приветствуется (если нет, то научим). Готовность к командировкам. ",
+            "responsibility": "Программирование ПЛК (что и так понятно!). Сопровождение текущего ПО. Поддержка и консультирование по работе ПО и оборудования."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "80626031",
+          "premium": false,
+          "name": "PHP-разработчик (стажер)",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Тольятти",
+            "building": "27",
+            "lat": 53.759363,
+            "lng": 87.147767,
+            "description": null,
+            "raw": "Новокузнецк, улица Тольятти, 27",
+            "metro": null,
+            "metro_stations": [],
+            "id": "2537523"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-17T08:22:12+0300",
+          "created_at": "2023-07-17T08:22:12+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80626031",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/80626031?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/80626031",
+          "relations": [],
+          "employer": {
+            "id": "2049601",
+            "name": "Онли",
+            "url": "https://api.hh.ru/employers/2049601",
+            "alternate_url": "https://hh.ru/employer/2049601",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/635179.jpg",
+              "90": "https://hhcdn.ru/employer-logo/2981868.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/2981869.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2049601",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Будет плюсом: Профильное образование. Опыт, в т.ч. собственные проекты. Откликнуться на вакансию с подробным резюме (убедитесь, что указано образование...",
+            "responsibility": "Практические задания с куратором от Only. Изучаемые темы: Стандарты оформления кода PSR. Парсинг данных. 1С-Битрикс: Управление сайтом. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "probation",
+            "name": "Стажировка"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "47849708",
+          "premium": false,
+          "name": "Разработчик программного обеспечения для микроконтроллеров",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Орджоникидзе",
+            "building": "12/4",
+            "lat": 53.76385,
+            "lng": 87.10392,
+            "description": null,
+            "raw": "Новокузнецк, улица Орджоникидзе, 12/4",
+            "metro": null,
+            "metro_stations": [],
+            "id": "568673"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T14:31:44+0300",
+          "created_at": "2023-08-11T14:31:44+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=47849708",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/47849708?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/47849708",
+          "relations": [],
+          "employer": {
+            "id": "2020755",
+            "name": "Фаза",
+            "url": "https://api.hh.ru/employers/2020755",
+            "alternate_url": "https://hh.ru/employer/2020755",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1053577.png",
+              "90": "https://hhcdn.ru/employer-logo/5834953.png",
+              "240": "https://hhcdn.ru/employer-logo/5834954.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2020755",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Хорошее Знание С. -Знание архитекторы современных микроконтроллеров ARM/Cortex. -Опыт разработки встроенного ПО для микроконтроллеров. -Опыт внутрисхемной отладки ПО и...",
+            "responsibility": "Разработка программного обеспечения микроконтроллеров."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "48",
+              "name": "Инженер-конструктор, инженер-проектировщик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83585018",
+          "premium": false,
+          "name": "Программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 35000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "Запорожская улица",
+            "building": "75",
+            "lat": 53.770173,
+            "lng": 87.136951,
+            "description": null,
+            "raw": "Новокузнецк, Запорожская улица, 75",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5277352"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T06:18:23+0300",
+          "created_at": "2023-08-11T06:18:23+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83585018",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83585018?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83585018",
+          "relations": [],
+          "employer": {
+            "id": "5200203",
+            "name": "Абсолютно здоров",
+            "url": "https://api.hh.ru/employers/5200203",
+            "alternate_url": "https://hh.ru/employer/5200203",
+            "logo_urls": {
+              "90": "https://hhcdn.ru/employer-logo/3751207.png",
+              "240": "https://hhcdn.ru/employer-logo/3751208.png",
+              "original": "https://hhcdn.ru/employer-logo-original/827581.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5200203",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Знание ОС от Microsoft, офисных и бухгалтерских программ Microsoft Office и 1С. Умение прокладывать локальную сеть. Знания баз данных...",
+            "responsibility": "Подготовка и сохранение резервных копий данных, их периодическая проверка и уничтожение. Установка и конфигурирование необходимых обновлений для операционной системы и..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "113",
+              "name": "Системный администратор"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84088185",
+          "premium": false,
+          "name": "Программист-разработчик на Wordpress",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 30000,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "проспект Дружбы",
+            "building": "48Б",
+            "lat": 53.753111893996575,
+            "lng": 87.15694245213106,
+            "description": null,
+            "raw": "Новокузнецк, проспект Дружбы, 48Б",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5289238"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-26T22:36:29+0300",
+          "created_at": "2023-07-26T22:36:29+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84088185",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84088185?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84088185",
+          "relations": [],
+          "employer": {
+            "id": "5225868",
+            "name": "ИТ-Конверсия",
+            "url": "https://api.hh.ru/employers/5225868",
+            "alternate_url": "https://hh.ru/employer/5225868",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5225868",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт работы с Wordpress от 1 года (можем обучить), но начальные знания нужны, работа будет в присутствии наставника. ",
+            "responsibility": "Развитие и поддержка существующих сайтов и разработка новых."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": true,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "81197485",
+          "premium": false,
+          "name": "Веб-разработчик",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-09T08:19:31+0300",
+          "created_at": "2023-08-09T08:19:31+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81197485",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/81197485?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/81197485",
+          "relations": [],
+          "employer": {
+            "id": "2658429",
+            "name": "СГМК",
+            "url": "https://api.hh.ru/employers/2658429",
+            "alternate_url": "https://hh.ru/employer/2658429",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/6055122.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/6055121.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/1108630.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2658429",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование. Владение стеком PHP/Bitrix Framework/HTML /CSS/JavaScript/Bitrix REST API. Знание SQL. Знание продукта Битрикс 24 и...",
+            "responsibility": "Созданием, поддержкой и развитием веб-проектов на Bitrix 24. Доработкой компонентов/ модулей Битрикс 24. Разработкой блоков для расширения функционала Битрикс..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "79853537",
+          "premium": false,
+          "name": "Инженер-программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "проспект Строителей",
+            "building": "98",
+            "lat": 53.77974,
+            "lng": 87.133331,
+            "description": null,
+            "raw": "Новокузнецк, проспект Строителей, 98",
+            "metro": null,
+            "metro_stations": [],
+            "id": "495593"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-18T09:58:40+0300",
+          "created_at": "2023-07-18T09:58:40+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79853537",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/79853537?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/79853537",
+          "relations": [],
+          "employer": {
+            "id": "833706",
+            "name": "Водоканал",
+            "url": "https://api.hh.ru/employers/833706",
+            "alternate_url": "https://hh.ru/employer/833706",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/912617.png",
+              "240": "https://hhcdn.ru/employer-logo/4091152.png",
+              "90": "https://hhcdn.ru/employer-logo/4091151.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=833706",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Образование средне-техническое или высшее. Практика работы с базами данных, например: (Oracle, MSSQL,My SQL, Postgresql). Написание и оптимизация SQL...",
+            "responsibility": "Разработка программного обеспечения (FrontEnd, С#). Развитие структуры и логики баз данных (BackEnd, Oracle)."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84288191",
+          "premium": false,
+          "name": "Ведущий программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 110000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-31T13:47:13+0300",
+          "created_at": "2023-07-31T13:47:13+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84288191",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84288191?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84288191",
+          "relations": [],
+          "employer": {
+            "id": "2688858",
+            "name": "НОВАЯ ГОРНАЯ УК",
+            "url": "https://api.hh.ru/employers/2688858",
+            "alternate_url": "https://hh.ru/employer/2688858",
+            "logo_urls": {
+              "90": "https://hhcdn.ru/employer-logo/4261064.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/4261065.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/955134.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2688858",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование (информационные технологии). Опыт работы приветствуется. Будет плюсом наличие сертификатов по программным продуктам 1С:Предприятие Дополнительные требования: Умение...",
+            "responsibility": "Разработка новых решений в действующем ПО. Поддержка информационных систем компании на базе продуктов 1С (настройка и создание отчетов, создание..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84523934",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-04T06:06:44+0300",
+          "created_at": "2023-08-04T06:06:44+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84523934",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84523934?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84523934",
+          "relations": [],
+          "employer": {
+            "id": "4858148",
+            "name": "Мастерская муки",
+            "url": "https://api.hh.ru/employers/4858148",
+            "alternate_url": "https://hh.ru/employer/4858148",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1074065.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/5916890.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/5916889.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4858148",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование. Знание 1С. Ответственность, внимательность, стрессоустойчивость.",
+            "responsibility": "Сопровождение программ 1С: Предприятие, Розница, Бухгалтерия, ЗУП. Доработка конфигураций. Разработка конфигураций под задачи компании. Написание по запросам пользователей новых..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "80625992",
+          "premium": false,
+          "name": "PHP-разработчик",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-17T08:22:13+0300",
+          "created_at": "2023-07-17T08:22:13+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80625992",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/80625992?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/80625992",
+          "relations": [],
+          "employer": {
+            "id": "2049601",
+            "name": "Онли",
+            "url": "https://api.hh.ru/employers/2049601",
+            "alternate_url": "https://hh.ru/employer/2049601",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/635179.jpg",
+              "90": "https://hhcdn.ru/employer-logo/2981868.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/2981869.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2049601",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Уверенное знание PHP/MySQL. Уверенные знания CMS 1С-Битрикс . Знания и опыт настройки различных интеграций с Битрикс (1C...",
+            "responsibility": "Курсы и тренинги по программированию. Обмен опытом и ревью кода. Спринты для рефакторинга. Парное программирование. Ретроспективный анализ проектов. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "80853981",
+          "premium": false,
+          "name": "Разработчик электронных курсов",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "Кузнецкстроевский проспект",
+            "building": "9",
+            "lat": 53.76369,
+            "lng": 87.128507,
+            "description": null,
+            "raw": "Новокузнецк, Кузнецкстроевский проспект, 9",
+            "metro": null,
+            "metro_stations": [],
+            "id": "900407"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-18T11:50:20+0300",
+          "created_at": "2023-07-18T11:50:20+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80853981",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/80853981?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/80853981",
+          "relations": [],
+          "employer": {
+            "id": "2658429",
+            "name": "СГМК",
+            "url": "https://api.hh.ru/employers/2658429",
+            "alternate_url": "https://hh.ru/employer/2658429",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/6055122.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/6055121.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/1108630.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2658429",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование. Опыт работы в данной должности от 1 года в крупно-структурированных компаниях. Тренинги, курсы по обучению и развитию...",
+            "responsibility": "Выявление и анализ потребностей в обучении у сотрудников компании. Разработка электронных курсов полного цикла (снятие запроса, составление сценария курса, работа..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "167",
+              "name": "Методист"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84927728",
+          "premium": false,
+          "name": "Старший программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 110700,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T09:06:13+0300",
+          "created_at": "2023-08-11T09:06:13+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84927728",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84927728?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84927728",
+          "relations": [],
+          "employer": {
+            "id": "5176205",
+            "name": "Разрез Березовский",
+            "url": "https://api.hh.ru/employers/5176205",
+            "alternate_url": "https://hh.ru/employer/5176205",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/3814784.png",
+              "90": "https://hhcdn.ru/employer-logo/3814783.png",
+              "original": "https://hhcdn.ru/employer-logo-original/843477.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5176205",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Умение программировать на платформе 1С:Предприятие. Приветствуется знание типовых конфигураций 1С:Комплексная автоматизация, ЗуП 3.1, языка запросов...",
+            "responsibility": "Осуществлять разработку и поддержку конфигураций 1С. Осуществлять обновление программного обеспечения. Осуществлять разработку нового функционала по утвержденным техническим заданиям. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84089924",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-27T04:41:37+0300",
+          "created_at": "2023-07-27T04:41:37+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84089924",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84089924?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84089924",
+          "relations": [],
+          "employer": {
+            "id": "2594405",
+            "name": "Аптечная сеть ЛЕКА",
+            "url": "https://api.hh.ru/employers/2594405",
+            "alternate_url": "https://hh.ru/employer/2594405",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/759231.jpg",
+              "90": "https://hhcdn.ru/employer-logo/3477881.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/3477882.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2594405",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Профильное образование . Знание 1С8.2, 1С8.3, SQL , сервер 2008-2016 . Опыт работы с распределенными базами...",
+            "responsibility": "Разработка нового ПО на базе 1С. Разработка новых решений в действующем ПО. Поддержка информационных систем компании на базе продуктов..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84247047",
+          "premium": false,
+          "name": "Специалист производственных систем \"Карьер\"/программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 75000,
+            "to": 78000,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-31T07:09:08+0300",
+          "created_at": "2023-07-31T07:09:08+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84247047",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84247047?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84247047",
+          "relations": [],
+          "employer": {
+            "id": "2688858",
+            "name": "НОВАЯ ГОРНАЯ УК",
+            "url": "https://api.hh.ru/employers/2688858",
+            "alternate_url": "https://hh.ru/employer/2688858",
+            "logo_urls": {
+              "90": "https://hhcdn.ru/employer-logo/4261064.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/4261065.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/955134.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2688858",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование, направление подготовки: Информационные технологии, программирование. От работы от 1 года. Знание: С#, Инка, python, sql, js.",
+            "responsibility": "Развитие и технологическое сопровождение информационных систем ЛИМС, ЕДАЦ, расчет материального баланса, советчик ОФ, планирование ОФ, ЖД логистика. Разработка алгоритмов работы..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "150",
+              "name": "Бизнес-аналитик"
+            }
+          ],
+          "accept_incomplete_resumes": true,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "79073514",
+          "premium": false,
+          "name": "Ведущий инженер-программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 47000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "проспект Строителей",
+            "building": "43",
+            "lat": 53.769459,
+            "lng": 87.117251,
+            "description": null,
+            "raw": "Новокузнецк, проспект Строителей, 43",
+            "metro": null,
+            "metro_stations": [],
+            "id": "3371768"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-07T06:47:36+0300",
+          "created_at": "2023-08-07T06:47:36+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79073514",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/79073514?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/79073514",
+          "relations": [],
+          "employer": {
+            "id": "140666",
+            "name": "Россети Сибирь",
+            "url": "https://api.hh.ru/employers/140666",
+            "alternate_url": "https://hh.ru/employer/140666",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/3415642.png",
+              "90": "https://hhcdn.ru/employer-logo/3415641.png",
+              "original": "https://hhcdn.ru/employer-logo-original/743670.PNG"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=140666",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Уверенный пользователь ПК.",
+            "responsibility": "Обслуживание и эксплуатация устройств электропитания (источники бесперебойного питания, аккумуляторные батареи). Обслуживание и настройка устройств связи (голосовые шлюзы, коммутаторы, точки доступа..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83669139",
+          "premium": false,
+          "name": "Ведущий инженер-программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 74000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-19T10:24:49+0300",
+          "created_at": "2023-07-19T10:24:49+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83669139",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83669139?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83669139",
+          "relations": [],
+          "employer": {
+            "id": "832863",
+            "name": "Кузнецкие ферросплавы",
+            "url": "https://api.hh.ru/employers/832863",
+            "alternate_url": "https://hh.ru/employer/832863",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/2102595.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/2102594.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/415130.JPG"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=832863",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Образование высшее по специальностям в области автоматизации. Знание принципов программирования. Знание С#, Delphi и PHP. Навыки работы с СУБД, SCADA...",
+            "responsibility": "Разработка. внедрение и сопровождение программного обеспечения АСУТП. Сопровождение и модернизация внедренных программ и программных средств."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83067897",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "посёлок Увал",
+            "street": null,
+            "building": null,
+            "lat": 54.115333,
+            "lng": 87.573757,
+            "description": null,
+            "raw": "посёлок Увал",
+            "metro": null,
+            "metro_stations": [],
+            "id": "4409100"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-04T12:13:03+0300",
+          "created_at": "2023-08-04T12:13:03+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83067897",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83067897?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83067897",
+          "relations": [],
+          "employer": {
+            "id": "2845634",
+            "name": "Угольная компания Сибирская",
+            "url": "https://api.hh.ru/employers/2845634",
+            "alternate_url": "https://hh.ru/employer/2845634",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2845634",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Знание и опыт в написании запросов, использование СКД. Умение разбираться в чужом программном коде.",
+            "responsibility": "Разрабатывать на платформе \"1С:Предприятие\" (1С:ДО, 1С:ERP, 1C:ЗУП). Осуществлять разработку нового функционала. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84635901",
+          "premium": false,
+          "name": "ABAP-разработчик",
+          "department": {
+            "id": "19989-19989-IT",
+            "name": "ЕВРАЗ. ИТ-специалисты"
+          },
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-07T10:17:12+0300",
+          "created_at": "2023-08-07T10:17:12+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84635901",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84635901?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84635901",
+          "relations": [],
+          "employer": {
+            "id": "19989",
+            "name": "ЕВРАЗ",
+            "url": "https://api.hh.ru/employers/19989",
+            "alternate_url": "https://hh.ru/employer/19989",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/782717.png",
+              "240": "https://hhcdn.ru/employer-logo/3571760.png",
+              "90": "https://hhcdn.ru/employer-logo/3571759.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=19989",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт реализации разработок на языке ABAP на системах SAP ERP, SAP HCM, SAP SRM, SAP MDG. Объектно-ориентированное программирование ABAP. ",
+            "responsibility": "Участие в проектах развития, тиражирования и сопровождения SAP-систем предприятия в качестве разработчика-программиста. Разработка пользовательских приложений, отчетных форм, транзакционных..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "77256120",
+          "premium": false,
+          "name": "Инженер-программист, г. Новокузнецк",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 48945,
+            "to": 48945,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "Транспортная улица",
+            "building": "4",
+            "lat": 53.746622,
+            "lng": 87.118814,
+            "description": null,
+            "raw": "Новокузнецк, Транспортная улица, 4",
+            "metro": null,
+            "metro_stations": [],
+            "id": "12790761"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-20T03:16:20+0300",
+          "created_at": "2023-07-20T03:16:20+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=77256120",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/77256120?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/77256120",
+          "relations": [],
+          "employer": {
+            "id": "4960318",
+            "name": "ГПК ПАССАЖИРАВТОТРАНС",
+            "url": "https://api.hh.ru/employers/4960318",
+            "alternate_url": "https://hh.ru/employer/4960318",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4960318",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее профессиональное образование (информационные технологии). Опыт работы от 3-х лет, опыт внедрения программных продуктов 1С.",
+            "responsibility": "Обеспечивать информационное и техническое сопровождение деятельности филиала. Создавать новое программное обеспечение, осуществлять модифицирование существующего программного обеспечения. Обеспечивать бесперебойное функционирование систем. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84287256",
+          "premium": false,
+          "name": "Главный программист",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 165000,
+            "to": 170000,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-31T13:40:32+0300",
+          "created_at": "2023-07-31T13:40:32+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84287256",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84287256?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84287256",
+          "relations": [],
+          "employer": {
+            "id": "2688858",
+            "name": "НОВАЯ ГОРНАЯ УК",
+            "url": "https://api.hh.ru/employers/2688858",
+            "alternate_url": "https://hh.ru/employer/2688858",
+            "logo_urls": {
+              "90": "https://hhcdn.ru/employer-logo/4261064.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/4261065.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/955134.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2688858",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование (информационные технологии). Опыт работы приветствуется. Будет плюсом наличие сертификатов по программным продуктам 1С:Предприятие. Дополнительные требования: * опыт...",
+            "responsibility": "Разработка новых решений в действующем ПО. Поддержка информационных систем компании на базе продуктов 1С (настройка и создание отчетов, создание..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83906941",
+          "premium": false,
+          "name": "Инженер-программист АСУ ТП",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": null,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "станция Евсино",
+            "street": null,
+            "building": null,
+            "lat": 54.512382,
+            "lng": 83.348171,
+            "description": null,
+            "raw": "станция Евсино",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5602923"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-24T11:59:44+0300",
+          "created_at": "2023-07-24T11:59:44+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83906941",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83906941?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83906941",
+          "relations": [],
+          "employer": {
+            "id": "85385",
+            "name": "ЭЛСИ",
+            "url": "https://api.hh.ru/employers/85385",
+            "alternate_url": "https://hh.ru/employer/85385",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1071874.jpg",
+              "240": "https://hhcdn.ru/employer-logo/5908126.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/5908125.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=85385",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее / Средне профессиональное. Стаж работы не менее 3 лет в сфере АСУТП по специальности: -инженер АСУТП, -инженер электроник, -инженер-программист. ",
+            "responsibility": "Обеспечивать поддержание в работоспособном состоянии программно-аппаратные комплексы автоматизированных систем управления предприятия (уровень АСУТП и АСОДУ). Установка и обновление общесистемного..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "79262305",
+          "premium": false,
+          "name": "Веб-разработчик 1С-Битрикс (middle+)",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-03T12:15:43+0300",
+          "created_at": "2023-08-03T12:15:43+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79262305",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/79262305?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/79262305",
+          "relations": [],
+          "employer": {
+            "id": "900901",
+            "name": "web-студия AXI",
+            "url": "https://api.hh.ru/employers/900901",
+            "alternate_url": "https://hh.ru/employer/900901",
+            "logo_urls": {
+              "90": "https://hhcdn.ru/employer-logo/3274244.png",
+              "240": "https://hhcdn.ru/employer-logo/3274245.png",
+              "original": "https://hhcdn.ru/employer-logo-original/708282.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=900901",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "опыт коммерческой разработки веб-сайтов на CMS 1C-Битрикс от 3 лет. - опыт работы с интернет-магазинами, как минимум...",
+            "responsibility": "full-stack разработка/доработка веб-сайтов на CMS 1C-Битрикс. - интеграция веб-сайтов с внешними системами. - обучение, адаптация и..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "40",
+              "name": "Другое"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "79501136",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "Технический проезд",
+            "building": "17/3",
+            "lat": 53.77986794415674,
+            "lng": 87.2215781809673,
+            "description": null,
+            "raw": "Новокузнецк, Технический проезд, 17/3",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5061078"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-07T04:13:38+0300",
+          "created_at": "2023-08-07T04:13:38+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79501136",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/79501136?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/79501136",
+          "relations": [],
+          "employer": {
+            "id": "4586270",
+            "name": "Агрохолдинг РПИ Груп",
+            "url": "https://api.hh.ru/employers/4586270",
+            "alternate_url": "https://hh.ru/employer/4586270",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4586270",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Знание УФ, СКД. - Знание бухгалтерского учета, механизма расчета заработной платы.",
+            "responsibility": "Работа с конфигурациями 1С БП 3.0, ЗУП 3.1. - Обновление конфигураций. - Создание отчетов, обработок, внесение изменений в конфигурации. - "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83768897",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-20T15:13:27+0300",
+          "created_at": "2023-07-20T15:13:27+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83768897",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83768897?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83768897",
+          "relations": [],
+          "employer": {
+            "id": "3151617",
+            "name": "Поволжье-Транс",
+            "url": "https://api.hh.ru/employers/3151617",
+            "alternate_url": "https://hh.ru/employer/3151617",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/2643974.png",
+              "90": "https://hhcdn.ru/employer-logo/2643973.png",
+              "original": "https://hhcdn.ru/employer-logo-original/550625.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3151617",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт работы с типовыми конфигурациями от 1 года. Опыт программирования на языке 1С и знание языков запросов. ",
+            "responsibility": "Обновление конфигураций, расширений, существующих справочников, документов, отчетов, обработок бухгалтерского, кадрового, оперативного и управленческого учета. Доработка и сопровождение конфигураций, внутренних баз..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83751061",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-20T12:11:20+0300",
+          "created_at": "2023-07-20T12:11:20+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83751061",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83751061?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83751061",
+          "relations": [],
+          "employer": {
+            "id": "231597",
+            "name": "Холод",
+            "url": "https://api.hh.ru/employers/231597",
+            "alternate_url": "https://hh.ru/employer/231597",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/371925.jpg",
+              "90": "https://hhcdn.ru/employer-logo/1929958.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/1929959.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=231597",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Знание конфигураций УПП 1.3, ЗУП 2.5/3.1, КА2, БП 3.0. Знание основ бух.учета. ",
+            "responsibility": "Программирование в 1С: Предприятие 8: разработка с 0, доработка отчетов, разработка нового функционала. Консультирование пользователей. Администрирование серверов 1С..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "77405024",
+          "premium": false,
+          "name": "Разработчик электроники",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Орджоникидзе",
+            "building": "12/4",
+            "lat": 53.76385,
+            "lng": 87.10392,
+            "description": null,
+            "raw": "Новокузнецк, улица Орджоникидзе, 12/4",
+            "metro": null,
+            "metro_stations": [],
+            "id": "568673"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T14:31:44+0300",
+          "created_at": "2023-08-11T14:31:44+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=77405024",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/77405024?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/77405024",
+          "relations": [],
+          "employer": {
+            "id": "2020755",
+            "name": "Фаза",
+            "url": "https://api.hh.ru/employers/2020755",
+            "alternate_url": "https://hh.ru/employer/2020755",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1053577.png",
+              "90": "https://hhcdn.ru/employer-logo/5834953.png",
+              "240": "https://hhcdn.ru/employer-logo/5834954.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2020755",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Знание современной элементной базы. Знание аналоговой и цифровой схемотехники. Знание микроконтроллеров ARM/Cortex. Владение средствами разработки печатных плат: Altium Designer. ",
+            "responsibility": "Разработка радиоэлектронных устройств с использованием аналоговых и цифровых компонентов. Проектирование и трассировка печатных плат. Подбор электронных компонентов. Подготовка спецификаций электронных..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "76896622",
+          "premium": false,
+          "name": "Ведущий программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-20T12:09:33+0300",
+          "created_at": "2023-07-20T12:09:33+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=76896622",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/76896622?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/76896622",
+          "relations": [],
+          "employer": {
+            "id": "68963",
+            "name": "НК Групп",
+            "url": "https://api.hh.ru/employers/68963",
+            "alternate_url": "https://hh.ru/employer/68963",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/2889501.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/2889500.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/612087.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=68963",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование. Знание 1С. Ответственность, внимательность, стрессоустойчивость.",
+            "responsibility": "Сопровождение программ 1С Торговля, 1С ЗУП, Комплексная автоматизация. Доработка конфигураций. Разработка конфигураций под задачи компании. Написание по запросам..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83065647",
+          "premium": false,
+          "name": "Инженер-программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "проспект Строителей",
+            "building": "98",
+            "lat": 53.77974,
+            "lng": 87.133331,
+            "description": null,
+            "raw": "Новокузнецк, проспект Строителей, 98",
+            "metro": null,
+            "metro_stations": [],
+            "id": "495593"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-07T12:52:02+0300",
+          "created_at": "2023-08-07T12:52:02+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83065647",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83065647?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83065647",
+          "relations": [],
+          "employer": {
+            "id": "833706",
+            "name": "Водоканал",
+            "url": "https://api.hh.ru/employers/833706",
+            "alternate_url": "https://hh.ru/employer/833706",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/912617.png",
+              "240": "https://hhcdn.ru/employer-logo/4091152.png",
+              "90": "https://hhcdn.ru/employer-logo/4091151.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=833706",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Образование средне-техническое или высшее. Знание платформы 1С:Предприятие 8.3. Опыт разработки на платформе 8.3 не менее...",
+            "responsibility": "Участие во внедрении систем 1С и их дальнейшее сопровождение. Доработка функционала (конфигураций) 1С. Разработка и модификация отчетов, обработок. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "78030881",
+          "premium": false,
+          "name": "Программист 1С (возможно удаленно)",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 220000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "Рудокопровая улица",
+            "building": "36",
+            "lat": 53.756807,
+            "lng": 87.079396,
+            "description": null,
+            "raw": "Новокузнецк, Рудокопровая улица, 36",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11909811"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T08:04:30+0300",
+          "created_at": "2023-08-11T08:04:30+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78030881",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/78030881?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/78030881",
+          "relations": [],
+          "employer": {
+            "id": "9246084",
+            "name": "СтильДом",
+            "url": "https://api.hh.ru/employers/9246084",
+            "alternate_url": "https://hh.ru/employer/9246084",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9246084",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "xml. Будет преимуществом: Опыт программирования на платформе 1С от 1 года. Опыт групповой разработки конфигураций. Опыт работы с указанными...",
+            "responsibility": "Разработка новых изменений существующих объектов и подсистем конфигураций 1С 8, а именно: * Бухгалтерия предприятий 2.0 и 3.0. * "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "79402725",
+          "premium": false,
+          "name": "Программист 1C на поддержку внутренних систем",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": null,
+            "to": 170000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-10T05:55:29+0300",
+          "created_at": "2023-08-10T05:55:29+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79402725",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/79402725?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/79402725",
+          "relations": [],
+          "employer": {
+            "id": "1873686",
+            "name": "Синерго Софт Системс",
+            "url": "https://api.hh.ru/employers/1873686",
+            "alternate_url": "https://hh.ru/employer/1873686",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/3683036.png",
+              "90": "https://hhcdn.ru/employer-logo/3683035.png",
+              "original": "https://hhcdn.ru/employer-logo-original/810537.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1873686",
+            "accredited_it_employer": true,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт работы от 3-х лет. Уверенные знания типовых конфигураций 1С. Хорошее знание встроенного языка, языка запросов и СКД. ",
+            "responsibility": "Доработка конфигураций. Разработка отчетов, обработок, расширений. Разработка механизмов обмена данными. Оптимизация производительности ИБ."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "81459335",
+          "premium": false,
+          "name": "Full stack разработчик (С#+Oracle. Legacy)",
+          "department": {
+            "id": "19989-19989-IT",
+            "name": "ЕВРАЗ. ИТ-специалисты"
+          },
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-10T16:53:16+0300",
+          "created_at": "2023-08-10T16:53:16+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81459335",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/81459335?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/81459335",
+          "relations": [],
+          "employer": {
+            "id": "19989",
+            "name": "ЕВРАЗ",
+            "url": "https://api.hh.ru/employers/19989",
+            "alternate_url": "https://hh.ru/employer/19989",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/782717.png",
+              "240": "https://hhcdn.ru/employer-logo/3571760.png",
+              "90": "https://hhcdn.ru/employer-logo/3571759.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=19989",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Знания и опыт работы: C#, .Net, Jdeveloper, JS, HTML, XML, Java, Oracle, Borland Delphi, Vue JS, Git. Знание SQL, PL...",
+            "responsibility": "Сопровождение и модификации legacy производственных систем, перевод legacy на стандартный современный стек. Работа в Scrum и Waterflow проектах. "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "78457480",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 140000,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-24T10:55:10+0300",
+          "created_at": "2023-07-24T10:55:10+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78457480",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/78457480?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/78457480",
+          "relations": [],
+          "employer": {
+            "id": "3776815",
+            "name": "КРОН",
+            "url": "https://api.hh.ru/employers/3776815",
+            "alternate_url": "https://hh.ru/employer/3776815",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1072716.png",
+              "240": "https://hhcdn.ru/employer-logo/5911494.png",
+              "90": "https://hhcdn.ru/employer-logo/5911493.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3776815",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Практический опыт разработки на 1С 8.х от 3 лет и выше. Знание и опыт в написании запросов, использование...",
+            "responsibility": "Разрабатывать на платформе \"1С:Предприятие\" по стандартам 1С. Получать задачи в виде ТЗ или в устной форме от..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "81681849",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Орджоникидзе",
+            "building": "12/4",
+            "lat": 53.76385,
+            "lng": 87.10392,
+            "description": null,
+            "raw": "Новокузнецк, улица Орджоникидзе, 12/4",
+            "metro": null,
+            "metro_stations": [],
+            "id": "568673"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T14:31:44+0300",
+          "created_at": "2023-08-11T14:31:44+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81681849",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/81681849?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/81681849",
+          "relations": [],
+          "employer": {
+            "id": "2020755",
+            "name": "Фаза",
+            "url": "https://api.hh.ru/employers/2020755",
+            "alternate_url": "https://hh.ru/employer/2020755",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1053577.png",
+              "90": "https://hhcdn.ru/employer-logo/5834953.png",
+              "240": "https://hhcdn.ru/employer-logo/5834954.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2020755",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": null,
+            "responsibility": "1. Модификация типовой ERP-системы и разработка новых возможностей на основании проектной документации под требования предприятия. 2. Разработка механизмов обмена..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": true,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84140040",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "Переездная улица",
+            "building": "9/1",
+            "lat": 53.748502,
+            "lng": 87.086142,
+            "description": null,
+            "raw": "Новокузнецк, Переездная улица, 9/1",
+            "metro": null,
+            "metro_stations": [],
+            "id": "3955157"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-11T13:18:19+0300",
+          "created_at": "2023-08-11T13:18:19+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84140040",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84140040?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84140040",
+          "relations": [],
+          "employer": {
+            "id": "4714842",
+            "name": "Пивторг",
+            "url": "https://api.hh.ru/employers/4714842",
+            "alternate_url": "https://hh.ru/employer/4714842",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4714842",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование. Уверенное знание 1С, языка запросов, СКД. Желательны базовые знания MS SQL. Желательно знание бизнес-процессов оптовой торговли. ",
+            "responsibility": "Сопровождение 1С:Комплексная автоматизация 1.1. Доработка конфигурации под задачи компании. Интеграция с внешними системами (ЕГАИС, Меркурий, Сбис). "
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83908027",
+          "premium": false,
+          "name": "Программист 1C",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "Новокузнецк",
+            "street": "улица Кирова",
+            "building": "42",
+            "lat": 53.757036,
+            "lng": 87.128579,
+            "description": null,
+            "raw": "Новокузнецк, улица Кирова, 42",
+            "metro": null,
+            "metro_stations": [],
+            "id": "854593"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-24T05:17:53+0300",
+          "created_at": "2023-07-24T05:17:53+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83908027",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83908027?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83908027",
+          "relations": [],
+          "employer": {
+            "id": "2850435",
+            "name": "ФГБОУ ВО Сибирский государственный индустриальный университет",
+            "url": "https://api.hh.ru/employers/2850435",
+            "alternate_url": "https://hh.ru/employer/2850435",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/1075692.png",
+              "240": "https://hhcdn.ru/employer-logo/5923398.png",
+              "90": "https://hhcdn.ru/employer-logo/5923397.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2850435",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт работы с типовыми конфигурациями на платформе 1С:Предприятие 8 от одного года. Опыт разработки запросов, работы с управляемыми...",
+            "responsibility": "Разработка и сопровождение конфигураций на платформе 1С:Предприятие 8.3: «1С:Бухгалтерия государственного учреждения 8» / «1С:Зарплата..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "78702761",
+          "premium": false,
+          "name": "Программист 1C (сопровождение 1С:ERP)",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": null,
+            "to": 170000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-01T10:21:32+0300",
+          "created_at": "2023-08-01T10:21:32+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78702761",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/78702761?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/78702761",
+          "relations": [],
+          "employer": {
+            "id": "1873686",
+            "name": "Синерго Софт Системс",
+            "url": "https://api.hh.ru/employers/1873686",
+            "alternate_url": "https://hh.ru/employer/1873686",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/3683036.png",
+              "90": "https://hhcdn.ru/employer-logo/3683035.png",
+              "original": "https://hhcdn.ru/employer-logo-original/810537.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1873686",
+            "accredited_it_employer": true,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт работы от 3-х лет. Опыт работы с типовыми конфигурациями 1С. Хорошее знание встроенного языка, языка запросов и...",
+            "responsibility": "Доработка конфигураций по ТЗ. Разработка внешних отчетов, обработок, расширений. Обновление конфигураций. Разработка механизмов обмена данными."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "84507638",
+          "premium": false,
+          "name": "Ведущий инженер программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": 95000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-08-09T08:20:08+0300",
+          "created_at": "2023-08-09T08:20:08+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84507638",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/84507638?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/84507638",
+          "relations": [],
+          "employer": {
+            "id": "2658429",
+            "name": "СГМК",
+            "url": "https://api.hh.ru/employers/2658429",
+            "alternate_url": "https://hh.ru/employer/2658429",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/6055122.jpeg",
+              "90": "https://hhcdn.ru/employer-logo/6055121.jpeg",
+              "original": "https://hhcdn.ru/employer-logo-original/1108630.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2658429",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Высшее образование. Опыт разработки от 2-х лет. Отличное знание типовой конфигурации ЗУП 3.1. Знание трудового и налогового законодательства. ",
+            "responsibility": "Сопровождение баз 1С:ЗУП. Поддержание отражений в 1С:УПП. Обработка заявок от пользователей Servis Desk. Создание внешних отчетов..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "81579001",
+          "premium": false,
+          "name": "Программист 1С",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": {
+            "city": "поселок Металлургов",
+            "street": null,
+            "building": null,
+            "lat": 53.90065,
+            "lng": 87.03386,
+            "description": null,
+            "raw": "поселок Металлургов",
+            "metro": null,
+            "metro_stations": [],
+            "id": "587747"
+          },
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-31T05:39:00+0300",
+          "created_at": "2023-07-31T05:39:00+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81579001",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/81579001?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/81579001",
+          "relations": [],
+          "employer": {
+            "id": "1201856",
+            "name": "Кузбасский бройлер",
+            "url": "https://api.hh.ru/employers/1201856",
+            "alternate_url": "https://hh.ru/employer/1201856",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/58318.jpg",
+              "90": "https://hhcdn.ru/employer-logo/854213.jpeg",
+              "240": "https://hhcdn.ru/employer-logo/854214.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1201856",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт программирования. Знание 1С 8.3.",
+            "responsibility": "Программирование 1С (обновление конфигураций, создание отчетов, обработок, внесение изменений в конфигурации). Поддержка информационных систем компании на базе продуктов 1..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "83731718",
+          "premium": false,
+          "name": "Специалист по дистанционному обучению (разработчик электронных курсов)",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": null,
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-20T09:00:30+0300",
+          "created_at": "2023-07-20T09:00:30+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83731718",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/83731718?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/83731718",
+          "relations": [],
+          "employer": {
+            "id": "2773143",
+            "name": "Вебзайм",
+            "url": "https://api.hh.ru/employers/2773143",
+            "alternate_url": "https://hh.ru/employer/2773143",
+            "logo_urls": {
+              "original": "https://hhcdn.ru/employer-logo-original/787214.png",
+              "240": "https://hhcdn.ru/employer-logo/3589748.png",
+              "90": "https://hhcdn.ru/employer-logo/3589747.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2773143",
+            "accredited_it_employer": false,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Понимание принципов педагогического дизайна. Знание современных технологий e-learning. Умение хорошо структурировать и визуализировать информацию, создавать простые и понятные тексты. ",
+            "responsibility": "Выявление и анализ потребности в обучении. Разработка электронных курсов полного цикла (снятие запроса, составление сценария курса, работа с контентом, дизайн..."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "17",
+              "name": "Бизнес-тренер"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        },
+        {
+          "id": "79391642",
+          "premium": false,
+          "name": "Программист 1C (аккредитованная ИТ-компания)",
+          "department": null,
+          "has_test": false,
+          "response_letter_required": false,
+          "area": {
+            "id": "1240",
+            "name": "Новокузнецк",
+            "url": "https://api.hh.ru/areas/1240"
+          },
+          "salary": {
+            "from": null,
+            "to": 170000,
+            "currency": "RUR",
+            "gross": false
+          },
+          "type": {
+            "id": "open",
+            "name": "Открытая"
+          },
+          "address": null,
+          "response_url": null,
+          "sort_point_distance": null,
+          "published_at": "2023-07-18T08:58:03+0300",
+          "created_at": "2023-07-18T08:58:03+0300",
+          "archived": false,
+          "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79391642",
+          "insider_interview": null,
+          "url": "https://api.hh.ru/vacancies/79391642?host=hh.ru",
+          "alternate_url": "https://hh.ru/vacancy/79391642",
+          "relations": [],
+          "employer": {
+            "id": "1873686",
+            "name": "Синерго Софт Системс",
+            "url": "https://api.hh.ru/employers/1873686",
+            "alternate_url": "https://hh.ru/employer/1873686",
+            "logo_urls": {
+              "240": "https://hhcdn.ru/employer-logo/3683036.png",
+              "90": "https://hhcdn.ru/employer-logo/3683035.png",
+              "original": "https://hhcdn.ru/employer-logo-original/810537.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1873686",
+            "accredited_it_employer": true,
+            "trusted": true
+          },
+          "snippet": {
+            "requirement": "Опыт работы от 3-х лет. Уверенные знания одной или нескольких конфигураций из перечисленных: 1С:Бухгалтерия, 1С:ЗУП...",
+            "responsibility": "Доработка конфигураций. Разработка внешних отчетов, обработок, расширений. Разработка механизмов обмена данными. Оптимизация производительности ИБ."
+          },
+          "contacts": null,
+          "schedule": null,
+          "working_days": [],
+          "working_time_intervals": [],
+          "working_time_modes": [],
+          "accept_temporary": false,
+          "professional_roles": [
+            {
+              "id": "96",
+              "name": "Программист, разработчик"
+            }
+          ],
+          "accept_incomplete_resumes": false,
+          "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+          },
+          "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+          },
+          "adv_response_url": null,
+          "is_adv_vacancy": false
+        }
+      ],
+      "found": 42,
+      "pages": 1,
+      "per_page": 100,
+      "page": 0,
+      "clusters": null,
+      "arguments": null,
+      "alternate_url": "https://hh.ru/search/vacancy?area=1240&enable_snippets=true&items_on_page=100&text=NAME%3A%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82"
+    }
+  ],
+  "found": 3,
+  "pages": 1,
+  "per_page": 100,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=1238&enable_snippets=true&items_on_page=100&text=NAME%3A%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82"
+}
