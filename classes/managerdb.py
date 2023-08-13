@@ -79,8 +79,8 @@ def create_database(database_name: str, params: dict):
                 vacancies_id SERIAL PRIMARY KEY,
                 company_id   INT REFERENCES company (company_id),
                 name_vacancy VARCHAR(100) NOT NULL,
-                salary_from int,
-                salary_to int,
+                salary_from TEXT,
+                salary_to TEXT,
                 requirement    TEXT,
                 responsibility TEXT,
                 vacancies_url TEXT
@@ -144,8 +144,8 @@ def save_data_to_database(city:int,profession:str,database_name: str, params: di
            #discription = vac['address']['description']
             company_url = vac['employer']['alternate_url']
             name_vacancy=vac['name']
-            salary_from = str(vac['salary'].get('from', None))
-            salary_to = str(vac['salary'].get('to', None))
+            salary_from = str(vac['salary'].get('from', "0"))
+            salary_to = str(vac['salary'].get('to', "0"))
             # salary_to = str(vac.get("salary", {}).get("from"))
             # salary_from = str(vac.get("salary", {}).get("to"))
             responsibility=vac['snippet']['responsibility']
