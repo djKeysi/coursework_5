@@ -2,16 +2,39 @@ import json
 import requests
 import psycopg2
 
-def get_vacancy(area: list, text: str) -> json:
+def get_vacancy(area: list, text: str,id:list) -> json:
 
     params = {
         'text': f"NAME:{text}",  # Системный администратор
         'per_page': 100,
-        'area': area  # зона кемеровская область #47 кемерово # 1238 - междуреченск # 1240 - Новокузнецк
-        # 'page':page
+        'area': area,  # зона кемеровская область #47 кемерово # 1238 - междуреченск # 1240 - Новокузнецк
+        'employer_id':id
     }
     req = requests.get('https://api.hh.ru/vacancies', params=params).json()
     return req
+
+def run_interface(dbmanager,params,flag_back):
+    user_questions = input("""                  Что вы хотите найти?
+                                                1 - Список всех компаний и количество вакансий у каждой компании.
+                                                2 - Cписок всех вакансий с указанием названия компании, названия вакансии и зарплаты и ссылки на вакансию.
+                                                3 - Среднюю зарплату по вакансиям в данном городе.
+                                                4 - Список всех вакансий, у которых зарплата выше средней по всем вакансиям в данном городе.
+                                                5 - Найти вакансию по ключевому слову.
+                                                0 - Назад\n""")
+    if user_questions == "1":
+        dbmanager.get_companies_and_vacancies_count('hh_mzk_nvk', params)
+    elif user_questions == "2":
+        dbmanager.get_all_vacancies('hh_mzk_nvk', params)
+    elif user_questions == "3":
+        dbmanager.get_avg_salary('hh_mzk_nvk', params)
+    elif user_questions == "4":
+        dbmanager.get_vacancies_with_higher_salary('hh_mzk_nvk', params)
+    elif user_questions == "5":
+        user_keywords = input("Введите ключевое слово вакансии которую хотите получить\n")
+        dbmanager.get_vacancies_with_keyword(user_keywords, 'hh_mzk_nvk', params)
+    elif user_questions == "0":
+        flag_back = True
+
 
 
 
@@ -65,9 +88,11 @@ def save_data_to_database(city:int,profession:str,database_name: str, params: di
     """Сохранение данных о каналах и видео в базу данных."""
 
     conn = psycopg2.connect(dbname=database_name, **params)
-
+    # НОВАЯ ГОРНАЯ УК,Евраз, Синерго Софт Системс, Угольная компания Сибирская, Онли,СГМК,НМТ,Яндекс Крауд,КАМСС,Администрация Новокузнецкого муниципального района
+    #9498112
+    id_company = [2688858, 19989,1873686,2845634,2049601,2658429,3967111,9498112,1267093,5444773,9498112]
     with conn.cursor() as cur:
-        for vac in get_vacancy(city,profession)['items']:
+        for vac in get_vacancy(city,profession,id_company)['items']:
             name_company=vac['employer']['name']
             company_url = vac['employer']['alternate_url']
             name_vacancy=vac['name']
@@ -79,7 +104,7 @@ def save_data_to_database(city:int,profession:str,database_name: str, params: di
                 salary_to ="0"
             responsibility=vac['snippet']['responsibility']
             requirement =vac['snippet']['requirement']
-            vacancies_url=vac['employer']['vacancies_url']
+            vacancies_url=vac['alternate_url']
             cur.execute(
                     """
                     INSERT INTO company (name_company,company_url)
@@ -101,15 +126,7 @@ def save_data_to_database(city:int,profession:str,database_name: str, params: di
     conn.commit()
     conn.close()
 
-#"../utils/vacancy.json"
 
-
-
-
-
-
-
-#add_vacancy_for_novokuznetsk_and_mezhdurechensk('Программист')
 
 
 
