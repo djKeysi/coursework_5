@@ -13,14 +13,8 @@ def get_vacancy(area: list, text: str,id:list) -> json:
     req = requests.get('https://api.hh.ru/vacancies', params=params).json()
     return req
 
-def run_interface(dbmanager,params,flag_back):
-    user_questions = input("""                  Что вы хотите найти?
-                                                1 - Список всех компаний и количество вакансий у каждой компании.
-                                                2 - Cписок всех вакансий с указанием названия компании, названия вакансии и зарплаты и ссылки на вакансию.
-                                                3 - Среднюю зарплату по вакансиям в данном городе.
-                                                4 - Список всех вакансий, у которых зарплата выше средней по всем вакансиям в данном городе.
-                                                5 - Найти вакансию по ключевому слову.
-                                                0 - Назад\n""")
+def run_interface(dbmanager,params,user_questions):
+
     if user_questions == "1":
         dbmanager.get_companies_and_vacancies_count('hh_mzk_nvk', params)
     elif user_questions == "2":
@@ -32,8 +26,9 @@ def run_interface(dbmanager,params,flag_back):
     elif user_questions == "5":
         user_keywords = input("Введите ключевое слово вакансии которую хотите получить\n")
         dbmanager.get_vacancies_with_keyword(user_keywords, 'hh_mzk_nvk', params)
-    elif user_questions == "0":
-        flag_back = True
+
+    # elif user_questions == "0":
+    #     flag_back = True
 
 
 
@@ -126,7 +121,15 @@ def save_data_to_database(city:int,profession:str,database_name: str, params: di
     conn.commit()
     conn.close()
 
+#"../utils/vacancy.json"
 
+
+
+
+
+
+
+#add_vacancy_for_novokuznetsk_and_mezhdurechensk('Программист')
 
 
 
